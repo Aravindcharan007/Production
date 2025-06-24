@@ -5,9 +5,21 @@ hi
 hello
 welcomey
 
+<<<<<<< HEAD
 ....
 .......
 
 
 .........
 .........
+=======
+
+
+India 
+
+
+America
+
+
+
+>>>>>>> dev
