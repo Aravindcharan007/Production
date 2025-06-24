@@ -1,1 +1,3 @@
 Hello from Amazon Linux
+i am working on linux
+Today is wednesday
